@@ -1,0 +1,3 @@
+#: ./data/scripts/entity/merchants/factory.lua:
+msgid "An upgrade that allows you to increase the route limit to ${amount}"
+msgstr "Обновление, позволяющее увеличить лимит маршрутов до ${amount}"
